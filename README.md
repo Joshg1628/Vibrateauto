@@ -1,6 +1,6 @@
 # VibrateAuto
 
-**An Android app that switches your phone to vibrate/silent the moment you walk into a synagogue or user defined rule, and restores ringer when you leave.**
+**Android app that switches your phone to vibrate or silent at synagogues and your own places/times, then restores your ringer when you leave.**
 
 ![Platform](https://img.shields.io/badge/platform-Android%208.0%2B-3DDC84)
 ![Framework](https://img.shields.io/badge/.NET-10%20MAUI-512BD4)
