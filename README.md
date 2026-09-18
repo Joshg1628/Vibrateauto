@@ -234,7 +234,7 @@ The app is feature-complete and running on a physical device. It has not been re
 ## Source code
 
 The full source is kept private. The excerpts above are representative; I am happy to walk through the codebase or share access for a technical review — please get in touch.
-
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/shia-grosinger/)**
 ---
 
 *Built by Shia Grosinger.*
